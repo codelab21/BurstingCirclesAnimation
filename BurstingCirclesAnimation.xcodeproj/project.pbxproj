@@ -11,6 +11,7 @@
 		E5264DD82A6F771400577D28 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5264DD72A6F771400577D28 /* ContentView.swift */; };
 		E5264DDA2A6F771500577D28 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5264DD92A6F771500577D28 /* Assets.xcassets */; };
 		E5264DDD2A6F771500577D28 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5264DDC2A6F771500577D28 /* Preview Assets.xcassets */; };
+		E5264DE42A6F774100577D28 /* BurstingCirclesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5264DE32A6F774100577D28 /* BurstingCirclesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E5264DD72A6F771400577D28 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E5264DD92A6F771500577D28 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E5264DDC2A6F771500577D28 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E5264DE32A6F774100577D28 /* BurstingCirclesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BurstingCirclesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				E5264DD52A6F771400577D28 /* BurstingCirclesAnimationApp.swift */,
 				E5264DD72A6F771400577D28 /* ContentView.swift */,
+				E5264DE32A6F774100577D28 /* BurstingCirclesView.swift */,
 				E5264DD92A6F771500577D28 /* Assets.xcassets */,
 				E5264DDB2A6F771500577D28 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E5264DE42A6F774100577D28 /* BurstingCirclesView.swift in Sources */,
 				E5264DD82A6F771400577D28 /* ContentView.swift in Sources */,
 				E5264DD62A6F771400577D28 /* BurstingCirclesAnimationApp.swift in Sources */,
 			);

@@ -2,7 +2,7 @@
 //  BurstingCirclesAnimationApp.swift
 //  BurstingCirclesAnimation
 //
-//  Created by Eymen on 25.07.2023.
+//  by CodeLab on 25.07.2023.
 //
 
 import SwiftUI
